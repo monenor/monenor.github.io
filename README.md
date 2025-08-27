@@ -10,4 +10,4 @@ Currently A short course student (IT) at Payap University
 
 
 #Experience 
-Community Leadership Development Traning (CLDT) from SSSNY
+Community Leadership Development Traning (CLDT) from SSSNY.
