@@ -1,1 +1,2 @@
-# monenor.github.io
+# monenor.github.io 
+Hello I am Nor. Talk or slap?
